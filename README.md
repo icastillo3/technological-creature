@@ -4,4 +4,4 @@ A demo for github pages
 
 ## The technological creature's path to adventure
 
--First mission
+-First mission: The beginning of the technological path
